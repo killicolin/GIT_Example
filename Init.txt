@@ -1,3 +1,4 @@
 user_1 : "Ceci est mon premier commit"
 user_2 : "J'ai bien reçu, voici mon deuxieme commit !"
 user_1 : "Mec pas drôle du tout gros problème de pull ! Regarde les image !"
+user_1 : "merge auto ?"
