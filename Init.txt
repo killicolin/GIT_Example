@@ -1,2 +1,3 @@
-"Ceci est mon premier commit"
-"J'ai bien reçu, voici mon deuxieme commit !"
+u1: "Ceci est mon premier commit"
+u2: "J'ai bien reçu, voici mon deuxieme commit !"
+u2: "ok !"
