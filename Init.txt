@@ -1,1 +1,2 @@
 "Ceci est mon premier commit"
+"J'ai bien reçu, voici mon deuxieme commit !"
