@@ -1,3 +1,4 @@
-u1: "Ceci est mon premier commit"
-u2: "J'ai bien reçu, voici mon deuxieme commit !"
-u2: "ok !"
+user_1 : "Ceci est mon premier commit"
+user_2 : "J'ai bien reçu, voici mon deuxieme commit !"
+user_1 : "now lets fail git auto-rebase"
+user_2 : "ok !"
