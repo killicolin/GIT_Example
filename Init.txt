@@ -1,2 +1,2 @@
-"Ceci est mon premier commit"
-"user 1 a parlé"
+u0: "Ceci est mon premier commit"
+u1: "user 1 a parlé"
